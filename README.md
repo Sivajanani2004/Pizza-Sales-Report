@@ -1,11 +1,11 @@
 # 🍕 Pizza Sales Report Dashboard
 
-## 📊 Overview
+## Overview
 The **Pizza Sales Report Dashboard** delivers an interactive and detailed analysis of pizza sales data from **January 2024 to December 2024**. It provides actionable insights into sales performance, customer behavior, and product trends, enabling data-driven decisions to enhance business strategies.
 
 ---
 
-## 🎯 Objective
+## Objective
 This dashboard is designed to:
 - Track overall sales performance.
 - Identify top and bottom-selling pizza products.
@@ -15,7 +15,7 @@ This dashboard is designed to:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### ✔ Sales Performance Summary
 - **Total Revenue**  
@@ -38,13 +38,13 @@ This dashboard is designed to:
 
 ---
 
-## ⚡ Tools and Technologies
+## Tools and Technologies
 - **Power BI** – For interactive data visualization and dashboard creation.  
 - **Data Source** – Historical sales data (Jan 2024 – Dec 2024).
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 The dashboard empowers stakeholders to:
 - Quickly identify top and low-performing products.  
 - Track sales trends to manage inventory and workforce efficiently.  
@@ -53,7 +53,7 @@ The dashboard empowers stakeholders to:
 
 ---
 
-## ✅ How to Use
+## How to Use
 1. Open the Power BI file (`Pizza_Sales_Report.pbix`) in Power BI Desktop.  
 2. Apply date range and category filters as needed.  
 3. Explore KPIs, product trends, and sales performance visuals.
